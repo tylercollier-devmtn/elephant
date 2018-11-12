@@ -1,0 +1,3 @@
+function makeTrunk() {
+  return 'trunk';
+}
